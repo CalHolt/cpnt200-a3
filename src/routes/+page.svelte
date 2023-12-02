@@ -16,6 +16,9 @@
 </ul>
 
 <style>
+  ul {
+    margin: auto;
+  }
   .blog-post {
     max-width: 60ch;
     background-color: burlywood;
